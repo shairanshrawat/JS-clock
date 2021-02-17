@@ -149,6 +149,6 @@ body.light  .toggleClass{
 .toggleClass:before{
     
     content: 'Dark Mode';
-    
+}
 
 
