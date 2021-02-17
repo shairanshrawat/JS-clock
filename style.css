@@ -146,9 +146,10 @@ body.light  .toggleClass{
     background: #091921;
     color: #091921;
 }
-.toggleClass:before{
+body.light .toggleClass:before{
     
     content: 'Dark Mode';
-}
+    
+} 
 
 
